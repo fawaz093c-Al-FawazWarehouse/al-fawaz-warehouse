@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="60dp"
+    android:viewportWidth="120"
+    android:viewportHeight="60">
+    <!-- Ibn Rushd Teal & Green Medical Emblem -->
+    <path
+        android:fillColor="#00796B"
+        android:pathData="M30,10 C18.9,10 10,18.9 10,30 C10,41.1 18.9,50 30,50 C41.1,50 50,41.1 50,30 C50,18.9 41.1,10 30,10 Z M30,15 C38.3,15 45,21.7 45,30 C45,38.3 38.3,45 30,45 C21.7,45 15,38.3 15,30 C15,21.7 21.7,15 30,15 Z" />
+    <path
+        android:fillColor="#43A047"
+        android:pathData="M27,20 L33,20 L33,27 L40,27 L40,33 L33,33 L33,40 L27,40 L27,33 L20,33 L20,27 L27,27 Z" />
+    <!-- Text Representation -->
+    <path
+        android:fillColor="#004D40"
+        android:pathData="M60,25 L110,25 L110,29 L60,29 Z" />
+    <path
+        android:fillColor="#00796B"
+        android:pathData="M60,33 L95,33 L95,36 L60,36 Z" />
+</vector>

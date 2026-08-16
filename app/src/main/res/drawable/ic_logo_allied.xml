@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="40dp"
+    android:viewportWidth="120"
+    android:viewportHeight="40">
+    <!-- Allied Pyramid Emblem -->
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M8,8 L24,8 L20,13 L6,13 Z" />
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M5,15 L26,15 L22,20 L3,20 Z" />
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M2,22 L28,22 L24,27 L0,27 Z" />
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M0,29 L30,29 L26,34 L2,34 Z" />
+    
+    <!-- Wordmark ALLIED -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M38,28 L38,12 L44,12 C47,12 49,14 49,17 C49,19 47,21 45,22 L50,28 L45,28 L41,23 L41,28 Z M41,19 L44,19 C45.5,19 46.5,18.2 46.5,17 C46.5,15.8 45.5,15 44,15 L41,15 Z" />
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M53,28 L53,12 L56,12 L56,25 L64,25 L64,28 Z" />
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M67,28 L67,12 L70,12 L70,25 L78,25 L78,28 Z" />
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M82,28 L82,12 L85,12 L85,28 Z" />
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M89,28 L89,12 L99,12 L99,15 L92,15 L92,18 L98,18 L98,21 L92,21 L92,25 L99,25 L99,28 Z" />
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M103,28 L103,12 L110,12 C114.5,12 118,15.5 118,20 C118,24.5 114.5,28 110,28 Z M106,25 L110,25 C113,25 115,23 115,20 C115,17 113,15 110,15 L106,15 Z" />
+</vector>

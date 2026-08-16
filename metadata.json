@@ -1,0 +1,6 @@
+{
+  "name": "مستودع الفواز (Al-Fawaz Warehouse)",
+  "description": "تطبيق مستودع الفواز للأدوية - حيث تبدأ الثقة. إدارة أدوية الوكالات الحصرية الثمانية وحليب سيليا وسيروم مسعود والمساعد الذكي Gemini للتحليل والطلبيات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

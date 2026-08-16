@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="60dp"
+    android:viewportWidth="120"
+    android:viewportHeight="60">
+    <!-- Zein Antiseptics Shield -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M28,8 L44,14 L44,28 C44,38 37,47 28,51 C19,47 12,38 12,28 L12,14 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,20 L31,20 L31,26 L37,26 L37,32 L31,32 L31,38 L25,38 L25,32 L19,32 L19,26 L25,26 Z" />
+    <!-- Zein Wordmark -->
+    <path
+        android:fillColor="#1B5E20"
+        android:pathData="M55,20 L110,20 L110,25 L55,25 Z" />
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M55,30 L95,30 L95,34 L55,34 Z" />
+</vector>

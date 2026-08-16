@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="60dp"
+    android:viewportWidth="120"
+    android:viewportHeight="60">
+    <!-- Barakat Red BPI Logo Emblem -->
+    <!-- B -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M12,48 L12,12 L26,12 C32,12 36,15 36,20 C36,23 34,26 30,28 C35,30 38,34 38,39 C38,45 33,48 26,48 Z M19,26 L25,26 C28,26 30,24 30,21 C30,18 28,17 25,17 L19,17 Z M19,43 L26,43 C29,43 31,41 31,37 C31,33 29,31 26,31 L19,31 Z" />
+    <!-- p -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M40,55 L40,24 L46,24 L46,27 C48,25 51,23 55,23 C61,23 66,28 66,35 C66,42 61,47 55,47 C51,47 48,45 46,43 L46,55 Z M46,35 C46,40 49,42 53,42 C57,42 60,39 60,35 C60,31 57,28 53,28 C49,28 46,30 46,35 Z" />
+    <!-- I -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M70,48 L70,12 L76,12 L76,48 Z" />
+
+    <!-- English Wordmark -->
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M82,22 L98,22 C101,22 103,23.5 103,26 C103,28 101,29.5 98,29.5 L85,29.5 L85,34 L99,34 L99,37 L82,37 Z" />
+    <path
+        android:fillColor="#546E7A"
+        android:pathData="M82,41 L116,41 L116,43 L82,43 Z" />
+</vector>
